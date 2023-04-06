@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11.1_arabic_numerals_in_roman", "11.1_arabic_numerals_in_roman\11.1_arabic_numerals_in_roman.vcxproj", "{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}.Debug|x64.ActiveCfg = Debug|x64
+		{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}.Debug|x64.Build.0 = Debug|x64
+		{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}.Debug|x86.ActiveCfg = Debug|Win32
+		{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}.Debug|x86.Build.0 = Debug|Win32
+		{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}.Release|x64.ActiveCfg = Release|x64
+		{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}.Release|x64.Build.0 = Release|x64
+		{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}.Release|x86.ActiveCfg = Release|Win32
+		{34AEF3EC-74FE-4C6A-AA01-9AE434B5391E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3AECD1-4D2A-40AD-AFDB-327472F8A076}
+	EndGlobalSection
+EndGlobal
